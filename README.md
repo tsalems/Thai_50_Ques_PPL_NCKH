@@ -1,2 +1,2 @@
 # 50 CÂU HỎI TRẮC NGHIỆM PPL NCKH
-#### Author: [Thai Nguyen](https://www.facebook.com/thai.decade/)
+> Author: [Thai Nguyen](https://www.facebook.com/thai.decade/)
